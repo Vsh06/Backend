@@ -1,0 +1,15 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-login
+pandas
+requests
+rdkit
+networkx
+tqdm
+werkzeug
+supabase
+aiohttp
+httpx
+asyncio
+psycopg2-binary
